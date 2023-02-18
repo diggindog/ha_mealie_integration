@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@diggindig"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/diggindog/mealie_integration",
+  "domain": "mealie_integration",
+  "iot_class": "cloud_polling",
+  "name": "Mealie Integration",
+  "requirements": ["gidgethub[aiohttp]==4.1.1"],
+  "version": "0.0.1"
+}

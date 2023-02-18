@@ -1,0 +1,1 @@
+DOMAIN = "mealie_integration"
